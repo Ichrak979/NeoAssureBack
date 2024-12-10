@@ -1,0 +1,51 @@
+{
+    "constat_id": "constat_2",
+    "vehicule_a": {
+        "societe_assurances": "Non renseigné",
+        "numero_police": "06 789 105",
+        "agence": "0101",
+        "identite_conducteur": {
+            "nom": "Ben Salah",
+            "prenom": "Ali",
+            "adresse": "15 Rue de Rome Tunis",
+            "telephone": "584924992"
+        },
+        "assure": {
+            "nom": "Ben Salah",
+            "prenom": "Malek",
+            "adresse": "25 Rue de Rome Tunis"
+        },
+        "vehicule": {
+            "marque": "Volkswagen Golf",
+            "numero_immatriculation": "8027TU192",
+            "sens": "Venant de Bardot",
+            "allant_a": "Bab Saadoun"
+        }
+    },
+    "vehicule_b": {
+        "societe_assurances": "NeoAssur",
+        "numero_police": "0105089",
+        "agence": "0104",
+        "identite_conducteur": {
+            "nom": "Abid",
+            "prenom": "Sofiene",
+            "adresse": "10 Rue 62105 Tunis",
+            "telephone": "98322105"
+        },
+        "assure": {
+            "nom": "Abid",
+            "prenom": "Sofiene",
+            "adresse": "10 Rue 62105 Tunis"
+        },
+        "vehicule": {
+            "marque": "Citroen Berlingo",
+            "numero_immatriculation": "201TU201",
+            "sens": "Venant de Cite Khadra",
+            "allant_a": "Avenue Habib Bourguiba"
+        }
+    },
+    "circonstances": "Non renseigné",
+    "croquis_accident": "Collision entre véhicules",
+    "dommages_apparents": "Non renseigné",
+    "observations": "Je prenais la sortie vers Habib Bourguiba, j'ai percuté la voiture A sur l’aile avant droite"
+}

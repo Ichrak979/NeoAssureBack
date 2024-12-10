@@ -1,0 +1,51 @@
+{
+    "constat_id": "constat_1",
+    "vehicule_a": {
+        "societe_assurances": "NeoAssur",
+        "numero_police": "356378201",
+        "agence": "0103",
+        "identite_conducteur": {
+            "nom": "Bedoui",
+            "prenom": "Oumayma",
+            "adresse": "27 Rue Hedi Tem Snia",
+            "telephone": "Non renseigné"
+        },
+        "assure": {
+            "nom": "Bedoui",
+            "prenom": "Oumayma",
+            "adresse": "27 Rue Hedi Tem Snia"
+        },
+        "vehicule": {
+            "marque": "Mahindra Kuv100",
+            "numero_immatriculation": "211TU0001",
+            "sens": "Venant de stationné",
+            "allant_a": "Non renseigné"
+        }
+    },
+    "vehicule_b": {
+        "societe_assurances": "Non renseigné",
+        "numero_police": "Non renseigné",
+        "agence": "Non renseigné",
+        "identite_conducteur": {
+            "nom": "Ben Barka",
+            "prenom": "Ali",
+            "adresse": "20 Rue 3105 Hammam Lif",
+            "telephone": "Non renseigné"
+        },
+        "assure": {
+            "nom": "Ben Barka",
+            "prenom": "Ali",
+            "adresse": "20 Rue 3105 Hammam Lif"
+        },
+        "vehicule": {
+            "marque": "Clio",
+            "numero_immatriculation": "0101TU002",
+            "sens": "Venant de Tunis",
+            "allant_a": "Sousse"
+        }
+    },
+    "circonstances": "Non renseigné",
+    "croquis_accident": "Bris de glace",
+    "dommages_apparents": "Non renseigné",
+    "observations": "Vitro derrière abîmé et carrée passagere"
+}

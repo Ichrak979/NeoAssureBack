@@ -1,0 +1,63 @@
+{
+    "constat_id": "constat_4",
+    "date": "30/03/2020",
+    "lieu": "Marsa",
+    "vehicule_a": {
+        "societe_assurances": "GAT",
+        "numero_police": "20211112935",
+        "agence": "TN",
+        "attestation_valable_du": "12/06/2020",
+        "attestation_valable_au": "12/06/2021",
+        "identite_conducteur": {
+            "nom": "GRAR",
+            "prenom": "Hela",
+            "adresse": "LA MARSA",
+            "permis_conduire": "201537",
+            "date_delivrance": "19/11/1938"
+        },
+        "assure": {
+            "nom": "GRAR",
+            "prenom": "Hela",
+            "adresse": "LA MARSA",
+            "telephone": "55090106"
+        },
+        "vehicule": {
+            "marque": "Clio Renault",
+            "numero_immatriculation": "111 TU 1111",
+            "sens": "Venant de Tunis",
+            "allant_a": "LA MARSA"
+        },
+        "degats_apparents": "Feux stop arrière",
+        "observations": "Non renseigné"
+    },
+    "vehicule_b": {
+        "societe_assurances": "NeoAssur",
+        "numero_police": "20",
+        "agence": "TUNIS",
+        "attestation_valable_du": "11/10/2020",
+        "attestation_valable_au": "11/10/2024",
+        "identite_conducteur": {
+            "nom": "HAJI",
+            "prenom": "Olivier",
+            "adresse": "LA MARSA",
+            "permis_conduire": "M207004",
+            "date_delivrance": "11/12/2000"
+        },
+        "assure": {
+            "nom": "HAJI",
+            "prenom": "Olivier",
+            "adresse": "LA MARSA"
+        },
+        "vehicule": {
+            "marque": "Audi A4",
+            "numero_immatriculation": "200 TU 200",
+            "sens": "Venant de Tunis",
+            "allant_a": "LA MARSA"
+        },
+        "degats_apparents": "Non renseigné",
+        "observations": "Non renseigné"
+    },
+    "circonstances": "Non renseigné",
+    "croquis_accident": "Dessin représenté dans la case 13",
+    "observations": "Non renseigné"
+}

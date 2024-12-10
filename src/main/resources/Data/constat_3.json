@@ -1,0 +1,56 @@
+{
+    "constat_id": "constat_3",
+    "vehicule_a": {
+        "societe_assurances": "NeoAssur",
+        "numero_police": "33005511",
+        "agence": "Lille",
+        "identite_conducteur": {
+            "nom": "Hajjaji",
+            "prenom": "Amira",
+            "adresse": "Gammarth",
+            "permis_conduire": "Non renseigné",
+            "date_delivrance": "01/01/2021"
+        },
+        "assure": {
+            "nom": "Imen",
+            "prenom": "Saadi",
+            "adresse": "Ariana"
+        },
+        "vehicule": {
+            "marque": "Peugeot 208",
+            "numero_immatriculation": "111TU1111",
+            "sens": "Venant de Sousse Khezama",
+            "allant_a": "Sousse Kantaoui"
+        }
+    },
+    "vehicule_b": {
+        "societe_assurances": "GAT",
+        "numero_police": "2020111930",
+        "agence": "Fed Sausse",
+        "identite_conducteur": {
+            "nom": "Dubois",
+            "prenom": "Olivier",
+            "adresse": "Sousse",
+            "permis_conduire": "M2dF2d",
+            "date_delivrance": "05/02/1998"
+        },
+        "assure": {
+            "nom": "Dubois",
+            "prenom": "Olivier",
+            "adresse": "Sousse"
+        },
+        "vehicule": {
+            "marque": "Non renseigné",
+            "numero_immatriculation": "201 TU 2011",
+            "sens": "Venant de Sousse Khezema",
+            "allant_a": "Sousse Kantaoui"
+        }
+    },
+    "circonstances": "Non renseigné",
+    "croquis_accident": "Non renseigné",
+    "dommages_apparents": {
+        "vehicule_a": "Pare-choc droit",
+        "vehicule_b": "feu avant gauche"
+    },
+    "observations": "Non renseigné"
+}
